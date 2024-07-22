@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS pythondb;
+CREATE DATABASE pythondb;
